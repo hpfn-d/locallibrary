@@ -1,4 +1,4 @@
-[![Code Health](https://landscape.io/github/hpfn/locallibrary/master/landscape.svg?style=flat)](https://landscape.io/github/hpfn/locallibrary/master)
+[![Build Status](https://travis-ci.org/hpfn-d/locallibrary.svg?branch=master)](https://travis-ci.org/hpfn-d/locallibrary)
 [![Updates](https://pyup.io/repos/github/hpfn/locallibrary/shield.svg)](https://pyup.io/repos/github/hpfn/locallibrary/)
 [![Python 3](https://pyup.io/repos/github/hpfn/locallibrary/python-3-shield.svg)](https://pyup.io/repos/github/hpfn/locallibrary/)
 
