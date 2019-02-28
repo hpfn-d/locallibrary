@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/hpfn-d/locallibrary.svg?branch=master)](https://travis-ci.org/hpfn-d/locallibrary)
-[![Updates](https://pyup.io/repos/github/hpfn/locallibrary/shield.svg)](https://pyup.io/repos/github/hpfn/locallibrary/)
-[![Python 3](https://pyup.io/repos/github/hpfn/locallibrary/python-3-shield.svg)](https://pyup.io/repos/github/hpfn/locallibrary/)
+[![Updates](https://pyup.io/repos/github/hpfn-d/locallibrary/shield.svg)](https://pyup.io/repos/github/hpfn-d/locallibrary/)
+[![Python 3](https://pyup.io/repos/github/hpfn-d/locallibrary/python-3-shield.svg)](https://pyup.io/repos/github/hpfn-d/locallibrary/)
 
 # locallibrary
 mozilla tutorial - local library
